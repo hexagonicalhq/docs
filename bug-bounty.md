@@ -2,7 +2,7 @@
 title: Bug Bounty
 description: Found a bug? Vuln? Submit a request and earn yourself and your team some ice cream!
 published: true
-date: 2025-07-07T12:21:41.831Z
+date: 2025-07-07T12:25:27.389Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-07T12:21:41.831Z
@@ -50,6 +50,13 @@ To keep things fun *and* fair, we don’t reward reports for:
 * Rate limiting or brute-force attempts
 
 ---
+### How do i get the money?
+We have two main ways of transfer:
+- Bank transfer
+- Revolut
+
+---
+
 
 ### 🙏 Final Notes
 
