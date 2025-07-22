@@ -2,7 +2,7 @@
 title: Bug Bounty
 description: Found a bug? Vuln? Submit a request and earn yourself and your team some ice cream!
 published: true
-date: 2025-07-07T12:26:16.807Z
+date: 2025-07-22T14:45:30.073Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-07T12:21:41.831Z
@@ -33,8 +33,9 @@ Cool, right? Just email your report to: **[ice-cream@hexagonical.ch](mailto:ice-
 
 You're allowed to test and report bugs for the following platforms:
 
-* 🏠 [Hexagonical Homepage](https://hexagonical.ch)
-* 🧠 [HackDB](https://hackdb.hexagonical.ch)
+* [Hexagonical Homepage](https://hexagonical.ch)
+* [HackDB](https://hackdb.hexagonical.ch)
+* [GimmeLinux](https://gimmelinux.com)
 
 Please don’t test anything not listed here (yet).
 
@@ -50,9 +51,7 @@ To keep things fun *and* fair, we don’t reward reports for:
 * Rate limiting or brute-force attempts
 
 ---
-Not bad at all, but here's a slightly cleaner and more confident version that still keeps your tone:
 
----
 
 ### How do I get the money?
 
