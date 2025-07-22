@@ -2,7 +2,7 @@
 title: Bug Bounty
 description: Found a bug? Vuln? Submit a request and earn yourself and your team some ice cream!
 published: true
-date: 2025-07-22T14:45:30.073Z
+date: 2025-07-22T15:29:05.756Z
 tags: 
 editor: markdown
 dateCreated: 2025-07-07T12:21:41.831Z
@@ -14,11 +14,11 @@ dateCreated: 2025-07-07T12:21:41.831Z
 
 We make things. Sometimes they break. That’s where *you* come in.
 
-If you find a bug, vulnerability, or just something plain weird in any of our tools, apps, or pages — let us know! We might even reward you (and your team) with **ice cream.**
+If you find a bug, vulnerability, or just something plain weird in any of our tools, apps, or pages - let us know! We might even reward you (and your team) with **ice cream.**
 
 ### How to Get Ice Cream
 
-We hand out rewards at our discretion — but here’s how to maximize your chances:
+We hand out rewards at our discretion - but here’s how to maximize your chances:
 
 Submit a **clear and helpful bug report** that includes:
 
